@@ -8,7 +8,9 @@ A few weeks ago, I had posted my first ever font to r/fonts, Maple Sans. It quic
 
 # What does it include?
 ## You won't believe me if I say this: I added A LOT.
+
 <img width="549" height="699" alt="{9447E828-C798-4D7A-9CFD-FDEE4E9B7430}" src="https://github.com/user-attachments/assets/4dbcae83-e039-4a16-9ad5-25d31935f7a5" />
+
 I added: oldstyle figures, tabular figures, slashed zero, compact f and t, and subscripts, superscripts, denominators, scientific inferiors, numerators and improved kerning.
 
 # How many versions are there?
