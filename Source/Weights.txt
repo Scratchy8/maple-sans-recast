@@ -1,0 +1,8 @@
+Air: -20 em units
+Light: -10 em units
+Regular: none
+Medium: 10 em units
+SemiBold: 20 em units
+Bold: 30 em units
+ExtraBold: 40 em units
+Black: 50 em units

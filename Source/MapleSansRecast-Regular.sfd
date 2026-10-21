@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1792459323
-ModificationTime: 1792538534
+ModificationTime: 1792596792
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -1711,6 +1711,8 @@ StartChar: zero
 Encoding: 48 48 52
 Width: 514
 Flags: HW
+HStem: -23 63<200.483 313.756> 671 63<199.738 314.653>
+VStem: 30 63<205.48 506.233> 420 64<203.391 503.902>
 LayerCount: 2
 Fore
 SplineSet
@@ -1769,25 +1771,21 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-236 737 m 0
- 349 737 442 647 442 536 c 0
- 442 432 383 348 280 337 c 1
- 120 63 l 1
- 426 63 l 1
- 426 0 l 1
- 44 0 l 1
- 44 63 l 1
- 246 399 l 1
- 258 399 l 2
- 338 399 378 460 378 536 c 0
- 378 612 316 674 236 674 c 0
- 156 674 92 612 92 536 c 2
- 92 530 l 1
- 28 530 l 1
- 28 536 l 2
- 28 647 123 737 236 737 c 0
+238 737 m 0
+ 350 737 443 648 444 538 c 2
+ 444 527 l 1
+ 144 63 l 1
+ 429 63 l 1
+ 429 0 l 1
+ 103 0 l 1
+ 90 0 l 1
+ 27 0 l 1
+ 381 539 l 1
+ 380 614 317 674 238 674 c 0
+ 159 674 95 613 94 538 c 1
+ 31 538 l 1
+ 32 648 126 737 238 737 c 0
 EndSplineSet
-Validated: 1
 Substitution2: "'onum' Oldstyle Figures in Latin lookup 6-1" two.onum
 Substitution2: "'tnum' Tabular Numbers in Latin lookup 5-1" two.tnum
 Substitution2: "'numr' Numerators lookup 0 subtable" two.numerator
@@ -20338,6 +20336,8 @@ StartChar: zero.tnum
 Encoding: 1114583 -1 889
 Width: 514
 Flags: HW
+HStem: -23 63<201.86 312.036> 671 63<202.534 311.362>
+VStem: 20 63<224.098 487.199> 430 64<225.173 486.34>
 LayerCount: 2
 Fore
 SplineSet
@@ -20388,25 +20388,21 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-258 737 m 0
- 371 737 484 647 484 536 c 0
- 484 432 405 348 302 337 c 1
- 102 63 l 1
- 488 63 l 1
- 488 0 l 1
- 26 0 l 1
- 26 63 l 1
- 268 399 l 1
- 280 399 l 2
- 360 399 420 460 420 536 c 0
- 420 612 338 674 258 674 c 0
- 178 674 94 612 94 536 c 6
- 94 530 l 5
- 30 530 l 5
- 30 536 l 6
- 30 647 145 737 258 737 c 0
+260 737 m 0
+ 372 737 495 648 496 538 c 2
+ 496 527 l 1
+ 156 63 l 1
+ 480 63 l 1
+ 480 0 l 1
+ 104 0 l 1
+ 92 0 l 1
+ 28 0 l 1
+ 432 539 l 1
+ 431 614 339 674 260 674 c 0
+ 181 674 87 613 86 538 c 1
+ 22 538 l 1
+ 23 648 148 737 260 737 c 0
 EndSplineSet
-Validated: 1
 Substitution2: "'onum' Oldstyle Figures in Latin lookup 6-1" two.tnum.onum
 EndChar
 
@@ -20605,6 +20601,8 @@ StartChar: zero.onum
 Encoding: 1114593 -1 899
 Width: 514
 Flags: HW
+HStem: -23 63<158.714 353.033> 438 63<160.012 351.959>
+VStem: 30 63<113.664 362.583> 420 64<115.724 360.3>
 LayerCount: 2
 Fore
 SplineSet
@@ -20649,25 +20647,21 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-236 499 m 0
- 349 499 442 449 442 338 c 0
- 442 234 383 200 280 189 c 1
- 140 63 l 1
- 426 63 l 1
- 426 0 l 1
- 44 0 l 1
- 44 63 l 1
- 246 251 l 1
- 258 251 l 2
- 338 251 378 262 378 338 c 0
- 378 414 316 436 236 436 c 0
- 156 436 92 374 92 298 c 2
- 92 292 l 1
- 28 292 l 1
- 28 298 l 2
- 28 409 123 499 236 499 c 0
+238 500 m 0
+ 350 500 443 451 444 341 c 2
+ 444 330 l 1
+ 174 63 l 1
+ 429 63 l 1
+ 429 0 l 1
+ 103 0 l 1
+ 90 0 l 1
+ 27 0 l 1
+ 381 342 l 1
+ 380 417 317 437 238 437 c 0
+ 159 437 95 376 94 301 c 1
+ 31 301 l 1
+ 32 411 126 500 238 500 c 0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: three.onum
@@ -20858,6 +20852,8 @@ StartChar: zero.tnum.onum
 Encoding: 1114603 -1 909
 Width: 514
 Flags: HW
+HStem: -23 63<173.156 340.7> 438 63<169.302 344.55>
+VStem: 20 63<139.446 346.352> 430 64<140.5 348.468>
 LayerCount: 2
 Fore
 SplineSet
@@ -20906,25 +20902,21 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-258 501 m 0
- 371 501 484 441 484 330 c 0
- 484 226 405 192 302 181 c 1
- 122 63 l 5
- 488 63 l 1
- 488 0 l 1
- 26 0 l 1
- 26 63 l 1
- 268 243 l 1
- 280 243 l 2
- 360 243 420 254 420 330 c 0
- 420 406 338 438 258 438 c 0
- 178 438 94 376 94 300 c 2
- 94 294 l 1
- 30 294 l 1
- 30 300 l 2
- 30 411 145 501 258 501 c 0
+260 501 m 0
+ 372 501 495 412 496 302 c 2
+ 496 291 l 1
+ 226 63 l 1
+ 480 63 l 1
+ 480 0 l 1
+ 104 0 l 1
+ 92 0 l 1
+ 28 0 l 1
+ 432 303 l 1
+ 431 378 339 438 260 438 c 0
+ 181 438 87 377 86 302 c 1
+ 22 302 l 1
+ 23 412 148 501 260 501 c 0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: three.tnum.onum
@@ -21215,6 +21207,7 @@ SplineSet
  346 0 l 1
  346 619 l 1
 EndSplineSet
+Validated: 1
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 7-1" f l
 EndChar
@@ -21317,6 +21310,8 @@ StartChar: zero.tnum.zero
 Encoding: 1114617 -1 925
 Width: 514
 Flags: HW
+HStem: -23 63<201.814 312.036> 671 63<202.534 284.315>
+VStem: 20 63<222.45 487.199> 430 64<225.173 486.39>
 LayerCount: 2
 Fore
 SplineSet
@@ -21343,6 +21338,8 @@ StartChar: zero.onum.zero
 Encoding: 1114618 -1 926
 Width: 514
 Flags: HW
+HStem: -23 63<199.785 353.033> 438 63<160.012 314.382>
+VStem: 30 63<112.552 362.583> 420 64<115.724 361.492>
 LayerCount: 2
 Fore
 SplineSet
@@ -21369,6 +21366,8 @@ StartChar: zero.tnum.onum.zero
 Encoding: 1114619 -1 927
 Width: 514
 Flags: HW
+HStem: -23 63<173.442 340.7> 438 63<169.302 335.851>
+VStem: 20 63<137.88 346.352> 430 64<140.5 349.016>
 LayerCount: 2
 Fore
 SplineSet
@@ -21395,6 +21394,8 @@ StartChar: zero.zero
 Encoding: 1114620 -1 928
 Width: 514
 Flags: HW
+HStem: -23 63<198.724 313.756> 671 63<199.738 293.784>
+VStem: 30 63<203.819 506.233> 420 64<203.391 509.337>
 LayerCount: 2
 Fore
 SplineSet
@@ -21624,6 +21625,7 @@ SplineSet
  20 0 l 1
  20 488 l 2
 EndSplineSet
+Validated: 1
 Ligature2: "'liga' Standard Ligatures in Latin lookup 7-1" f.alt l
 EndChar
 
